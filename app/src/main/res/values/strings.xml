@@ -14,6 +14,12 @@
     <string name="confirmarContrasena">Confirmar Contraseña</string>
     <string name="telefono">Telefono</string>
     <string name="registrarse">Registrarse</string>
+    <string name="title_activity_menu_lateral">MenuLateral</string>
+
+    <string name="navigation_drawer_open">Menu Lateral</string>
+    <string name="navigation_drawer_close">Cerrar Menu Lateral</string>
+
+    <string name="action_settings">Ajustes</string>
 
 
 </resources>
